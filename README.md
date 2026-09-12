@@ -7,7 +7,6 @@
   [![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=flat-square&logo=python&logoColor=white)](#)
   [![Interface](https://img.shields.io/badge/UI-Command%20Line%20Interface%20(CLI)-lightgrey?style=flat-square)](#)
   [![Persistence](https://img.shields.io/badge/Storage-JSON%20File%20I%2FO-blue?style=flat-square)](#)
-  [![Coursework](https://img.shields.io/badge/UTAR-FHCT1024%20Foundations-blueviolet?style=flat-square)](#)
 
 </div>
 
@@ -51,3 +50,8 @@ The system handles end-to-end book life cycles—from cataloging and search inde
 ├── borrowedlibrary_data.txt  # Active loan transactions & timestamp logs (JSON)
 ├── reservedlibrary_data.txt  # Queued book holds & reservations (JSON)
 └── README.md
+
+## 👥 Team & Contributors
+
+* **Lai Jie Ying** ([@jieying-lai](https://github.com/jieying-lai)) 
+* **Caitlin Lee Kai En** ([@caitlinlke](https://github.com/caitlinlke))
