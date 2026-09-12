@@ -51,7 +51,10 @@ The system handles end-to-end book life cycles—from cataloging and search inde
 ├── reservedlibrary_data.txt  # Queued book holds & reservations (JSON)
 └── README.md
 
+---
+
 ## 👥 Team & Contributors
 
 * **Lai Jie Ying** ([@jieying-lai](https://github.com/jieying-lai)) 
 * **Caitlin Lee Kai En** ([@caitlinlke](https://github.com/caitlinlke))
+---
