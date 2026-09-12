@@ -41,6 +41,14 @@ The system handles end-to-end book life cycles—from cataloging and search inde
 
 ---
 
+原因出在 **代码块（Code Block）没有闭合**。
+
+在 `🏗️ Architecture & Storage Models` 模块中，用 ````text` 开启了代码块，但结尾**漏掉了闭合反引号（`````）**。
+
+Markdown 引擎会误以为后面的所有内容（包括分割线 `---` 和 `## 👥 Team & Contributors`）全都属于那段代码文本，导致下面整块区域被当成灰色代码框渲染。
+
+---
+
 ## 🏗️ Architecture & Storage Models
 
 ```text
@@ -51,10 +59,13 @@ The system handles end-to-end book life cycles—from cataloging and search inde
 ├── reservedlibrary_data.txt  # Queued book holds & reservations (JSON)
 └── README.md
 
+```
+
 ---
 
 ## 👥 Team & Contributors
 
-* **Lai Jie Ying** ([@jieying-lai](https://github.com/jieying-lai)) 
+* **Lai Jie Ying** ([@jieying-lai](https://github.com/jieying-lai))
 * **Caitlin Lee Kai En** ([@caitlinlke](https://github.com/caitlinlke))
+
 ---
