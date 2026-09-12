@@ -1,0 +1,137 @@
+{
+    "001": {
+        "title": "HELLO WORLD",
+        "author": "AMY",
+        "category": "Non-fiction",
+        "publisher": "MYBOOKSDN",
+        "year": 2008,
+        "location": "A",
+        "status": "Available"
+    },
+    "002": {
+        "title": "SNOW WHITE",
+        "author": "ANDREW",
+        "category": "Fiction",
+        "publisher": "ANNN",
+        "year": 2008,
+        "location": "A",
+        "status": "Borrowed"
+    },
+    "003": {
+        "title": "DAZYY",
+        "author": "DAZ",
+        "category": "Fiction",
+        "publisher": "DAZZ",
+        "year": 2013,
+        "location": "B",
+        "status": "Borrowed"
+    },
+    "004": {
+        "title": "THE WORLD",
+        "author": "KATE",
+        "category": "Fiction",
+        "publisher": "WORLDSDN",
+        "year": 1929,
+        "location": "S",
+        "status": "Available"
+    },
+    "005": {
+        "title": "HARRY POTTER",
+        "author": "JK ROWLING",
+        "category": "Fiction",
+        "publisher": "HORG",
+        "year": 1988,
+        "location": "G",
+        "status": "Borrowed"
+    },
+    "006": {
+        "title": "SCIENCE",
+        "author": "DAVID",
+        "category": "Non-fiction",
+        "publisher": "ENGKS",
+        "year": 1999,
+        "location": "H",
+        "status": "Available"
+    },
+    "007": {
+        "title": "THE MATHS",
+        "author": "BOB",
+        "category": "Non-fiction",
+        "publisher": "ENGKS",
+        "year": 2004,
+        "location": "C",
+        "status": "Under Maintenance"
+    },
+    "008": {
+        "title": "LOLI",
+        "author": "LILY",
+        "category": "Fiction",
+        "publisher": "RADSDN",
+        "year": 2012,
+        "location": "B",
+        "status": "Available"
+    },
+    "009": {
+        "title": "THE TREE",
+        "author": "KAWAS",
+        "category": "Fiction",
+        "publisher": "WASSDN",
+        "year": 2012,
+        "location": "D",
+        "status": "Borrowed"
+    },
+    "010": {
+        "title": "THE WAR",
+        "author": "REAS",
+        "category": "Fiction",
+        "publisher": "REAS",
+        "year": 2013,
+        "location": "D",
+        "status": "Borrowed"
+    },
+    "011": {
+        "title": "THE CAT",
+        "author": "TAX",
+        "category": "Fiction",
+        "publisher": "TAX",
+        "year": 2014,
+        "location": "C",
+        "status": "Borrowed"
+    },
+    "012": {
+        "title": "DAYS OF MATTER",
+        "author": "LAY",
+        "category": "Non-fiction",
+        "publisher": "THEABC",
+        "year": 2014,
+        "location": "C",
+        "status": "Available"
+    },
+    "015": {
+        "title": "EGG",
+        "author": "EGG",
+        "category": "Fiction",
+        "publisher": "EGG",
+        "year": 2019,
+        "location": "A",
+        "status": "Available"
+    },
+    "8888": {
+        "title": "I LOVE MATCHAAAA",
+        "author": "CHY",
+        "category": "Non-fiction",
+        "publisher": "NIKO NEKO",
+        "year": 2024,
+        "location": "A",
+        "status": "Available"
+    },
+    "889": {
+        "title": "UTAR MY CHOICE !",
+        "author": "HOU YING",
+        "category": "Non-fiction",
+        "publisher": "SDN",
+        "year": 2024,
+        "location": "A",
+        "status": "Available"
+    }
+}

@@ -1,0 +1,92 @@
+{
+    "ying@utar.admin.my": {
+        "id": "2400001",
+        "name": "JIE YING",
+        "password": "ying1234",
+        "role": "Administrator"
+    },
+    "sam@1utar.my": {
+        "id": "2400012",
+        "name": "SAM",
+        "password": "samsam123",
+        "role": "Student"
+    },
+    "amy@utar.edu.my": {
+        "id": "2100088",
+        "name": "AMY",
+        "password": "88888888",
+        "role": "Staff"
+    },
+    "kate@1utar.my": {
+        "id": "2300018",
+        "name": "KATE",
+        "password": "22222222",
+        "role": "Student"
+    },
+    "rayy@1utar.my": {
+        "id": "2300089",
+        "name": "RAYY",
+        "password": "33333333",
+        "role": "Student"
+    },
+    "mandy@1utar.my": {
+        "id": "2200017",
+        "name": "MANDY",
+        "password": "99999999",
+        "role": "Student"
+    },
+    "caitlin@utar.admin.my": {
+        "id": "1234",
+        "name": "CAIT",
+        "password": "caitlin1234",
+        "role": "Administrator"
+    },
+    "will@1utar.my": {
+        "id": "230009",
+        "name": "WILL",
+        "password": "999999999",
+        "role": "Student"
+    },
+    "sally@1utar.my": {
+        "id": "12345",
+        "name": "SALLY",
+        "password": "22222222",
+        "role": "Student"
+    },
+    "sammul@1utar.my": {
+        "id": "210001",
+        "name": "SAMMUL",
+        "password": "samsamsam",
+        "role": "Student"
+    },
+    "peter@1utar.my": {
+        "id": "2012008",
+        "name": "PETER",
+        "password": "12341234",
+        "role": "Student"
+    },
+    "houying060305@1utar.my": {
+        "id": "123456",
+        "name": "CHY",
+        "password": "123456789",
+        "role": "Student"
+    },
+    "yinxuan0306@1utar.my": {
+        "id": "steffi",
+        "name": "STEFFI",
+        "password": "yinxuancheong",
+        "role": "Student"
+    },
+    "joonhengchou@1utar.my": {
+        "id": "2402000",
+        "name": "CHOU JH",
+        "password": "abcd1234",
+        "role": "Student"
+    },
+    "jy@utar.admin.my": {
+        "id": "2401444",
+        "name": "JY",
+        "password": "jieying777",
+        "role": "Administrator"
+    }
+}

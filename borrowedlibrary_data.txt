@@ -1,0 +1,50 @@
+[
+    {
+        "b_id": "005",
+        "b_bookname": "HARRY POTTER",
+        "b_userid": "2400012",
+        "b_user": "SAM",
+        "borrow_date": "2024-12-19",
+        "due_date": "2024-12-26"
+    },
+    {
+        "b_id": "009",
+        "b_bookname": "THE TREE",
+        "b_userid": "2300018",
+        "b_user": "KATE",
+        "borrow_date": "2024-12-20",
+        "due_date": "2024-12-27"
+    },
+    {
+        "b_id": "010",
+        "b_bookname": "THE WAR",
+        "b_userid": "2200017",
+        "b_user": "MANDY",
+        "borrow_date": "2024-11-20",
+        "due_date": "2024-11-27"
+    },
+    {
+        "b_id": "003",
+        "b_bookname": "DAZYY",
+        "b_userid": "2300089",
+        "b_user": "RAYY",
+        "borrow_date": "2024-12-20",
+        "due_date": "2024-12-27"
+    },
+    {
+        "b_id": "002",
+        "b_bookname": "SNOW WHITE",
+        "b_userid": "123456",
+        "b_user": "CHY",
+        "borrow_date": "2024-12-20",
+        "due_date": "2024-12-27"
+    },
+    {
+        "b_id": "011",
+        "b_bookname": "THE CAT",
+        "b_userid": "2400001",
+        "b_user": "JIE YING",
+        "borrow_date": "2024-12-20",
+        "due_date": "2025-01-19"
+    }
+]
