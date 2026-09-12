@@ -14,7 +14,7 @@
 
 ## 📌 Overview
 
-Developed for the **FHCT1024 Programming Concepts and Design** foundational coursework at **Universiti Tunku Abdul Rahman (UTAR)**, this application simulates an institutional library management workflow through a clean, menu-driven command-line interface.
+Developed for the **FHCT1024 Programming Concepts and Design** foundational coursework at **Universiti Tunku Abdul Rahman (UTAR)** during foundation, this application simulates an institutional library management workflow through a clean, menu-driven command-line interface.
 
 The system handles end-to-end book life cycles—from cataloging and search indexing to role-based checkout allowances, book reservation waitlists, and fine adjustments upon return.
 
